@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x8847d2d6B10707d5a38bf08A1E96Be55ddd9e71F",
+  "SCAN_LINK": "https://polygonscan.com/address/0x8847d2d6B10707d5a38bf08A1E96Be55ddd9e71F",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Bad Ideas",
+  "SYMBOL": "XOXO",
+  "MAX_SUPPLY": 2022,
+  "WEI_COST": 45000000000000000000,
+  "DISPLAY_COST": 45,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/bad-ideas-2ti1iub5k8",
+  "SHOW_BACKGROUND": true
+}
